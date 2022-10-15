@@ -1,0 +1,76 @@
+{
+  "skills": [
+    {
+      "bgColor": "#f0f5f6",
+      "icon": "./images/skills/react.webp",
+      "name": "React",
+      "_id": 1
+    },
+    {
+      "bgColor": "#f0f5f6",
+      "icon": "./images/skills/Ajax.webp",
+      "name": "AJAX",
+      "_id": 2
+    },
+    {
+      "bgColor": "#f0f5f6",
+      "icon": "./images/skills/git.webp",
+      "name": "Git & GitHub",
+      "_id": 3
+    },
+    {
+      "bgColor": "#f0f5f6",
+      "icon": "./images/skills/mu5.webp",
+      "name": "Material UI",
+      "_id": 4
+    },
+    {
+      "bgColor": "#f0f5f6",
+      "icon": "./images/skills/typescript.webp",
+      "name": "TypeScript",
+      "_id": 5
+    },
+    {
+      "bgColor": "#f0f5f6",
+      "icon": "./images/skills/api.webp",
+      "name": "RESTful APIs",
+      "_id": 6
+    },
+    {
+      "bgColor": "#f0f5f6",
+      "icon": "./images/skills/nodejs.webp",
+      "name": "Node JS",
+      "_id": 7
+    },
+    {
+      "bgColor": "#f0f5f6",
+      "icon": "./images/skills/nextjs.webp",
+      "name": "NEXT JS",
+      "_id": 8
+    },
+    {
+      "bgColor": "#f0f5f6",
+      "icon": "./images/skills/bootstrap.webp",
+      "name": "Bootstrap",
+      "_id": 9
+    },
+    {
+      "bgColor": "#f0f5f6",
+      "icon": "./images/skills/sanity.webp",
+      "name": "Sanity",
+      "_id": 10
+    },
+    {
+      "bgColor": "#f0f5f6",
+      "icon": "./images/skills/redux.webp",
+      "name": "Redux",
+      "_id": 11
+    },
+    {
+      "bgColor": "#f0f5f6",
+      "icon": "./images/skills/sass.webp",
+      "name": "SASS",
+      "_id": 12
+    }
+  ]
+}

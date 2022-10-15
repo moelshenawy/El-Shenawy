@@ -1,0 +1,27 @@
+{
+  "abouts": [
+    {
+      "description": "I am frontend developer with a passion for building beautiful and functional web application",
+      "imgUrl": "./images/about03.webp",
+      "title": "Frontend Developer",
+      "_id": "0",
+      "_type": "abouts"
+    },
+
+    {
+      "description": "I am react developer with a passion for building beautiful and functional react web application",
+      "imgUrl": "./images/about02.webp",
+      "title": "ReactJS Developer",
+      "_id": "1",
+      "_type": "abouts"
+    },
+
+    {
+      "description": "I am web animation developer with a passion for building beautiful and functional web animations",
+      "imgUrl": "./images/about01.webp",
+      "title": "Web Animations",
+      "_id": "2",
+      "_type": "abouts"
+    }
+  ]
+}

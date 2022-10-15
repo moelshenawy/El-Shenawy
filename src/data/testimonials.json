@@ -1,0 +1,32 @@
+{
+  "testimonials": [
+    {
+      "company": "Freelancer",
+      "feedback": "Always a pleasure to work with Muhammad. Reliable, takes care of the details and delivers on time. Completed several projects together and I can recommend him 100%. Thanks for your good job Muhammad.",
+      "imgUrl": "./images/testimonials/Male.webp",
+      "name": "Mark",
+      "_id": 1
+    },
+    {
+      "company": "Upwork",
+      "feedback": "Muhammad, is very knowledgeable. He works quickly, theme looks amazing and functions very well. Super fast loading speed.",
+      "imgUrl": "./images/testimonials/Male.webp",
+      "name": "Michael",
+      "_id": 2
+    },
+    {
+      "company": "Upwork",
+      "feedback": "Muhammad was absolutely fantastic! Not only did he assist me with the work I wanted but he also advised me on some other work that I had issues with. It's not very often that you come across people who give out advice like that. Thank you Muhammad. I will certainly be reaching out to you for more work in the future. ",
+      "imgUrl": "./images/testimonials/Female.webp",
+      "name": "Sara",
+      "_id": 3
+    },
+    {
+      "company": "Upwork",
+      "feedback": "Pleasure to work with Muhammad. Impeccable work, will always hire him for our future projects.",
+      "imgUrl": "./images/testimonials/Male.webp",
+      "name": "Arun",
+      "_id": 4
+    }
+  ]
+}
