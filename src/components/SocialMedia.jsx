@@ -1,9 +1,18 @@
 import React from "react";
 import { BsInstagram, BsLinkedin } from "react-icons/bs";
-import { FaFacebookF } from "react-icons/fa";
+import { FaGithub } from "react-icons/fa";
 
 const SocialMedia = () => (
   <div className="app__social">
+    <a
+      href="https://github.com/Muhammad-ElShenawy"
+      alt="facebook_profile"
+      target="_blank"
+      rel="noreferrer"
+    >
+      <FaGithub />
+    </a>
+
     <a
       href="https://twitter.com/mohamedgk5"
       alt="twitter_profile"
@@ -12,14 +21,7 @@ const SocialMedia = () => (
     >
       <BsLinkedin />
     </a>
-    <a
-      href="https://www.facebook.com/muhammadelshenawygk/  "
-      alt="facebook_profile"
-      target="_blank"
-      rel="noreferrer"
-    >
-      <FaFacebookF />
-    </a>
+
     <a
       href="https://www.instagram.com/muhammad_ali_elshenawy/"
       alt="instagram_profile"
