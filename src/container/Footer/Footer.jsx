@@ -36,7 +36,7 @@ const Footer = () => {
 
       <div className="app__footer-cards">
         <div className="app__footer-card ">
-          <img src={images.whatsapp} alt="Whats App" loading="lazy" />
+          <img src={images.whatsapp} alt="Whats App" loading="eager" />
           <a
             href="https://en.wh.ms/201100791315"
             target="_blank"
@@ -48,14 +48,14 @@ const Footer = () => {
         </div>
 
         <div className="app__footer-card">
-          <img src={images.mobile} alt="phone" loading="lazy" />
+          <img src={images.mobile} alt="phone" loading="eager" />
           <a href="tel:+(20)1100791315" className="p-text">
             +(20) 1100791315
           </a>
         </div>
 
         <div className="app__footer-card ">
-          <img src={images.email} alt="email" loading="lazy" />
+          <img src={images.email} alt="email" loading="eager" />
           <a href="mailto:mohameduc8526@gmail.com" className="p-text">
             mohameduc8526@gmail.com
           </a>
