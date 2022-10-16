@@ -35,31 +35,46 @@ const Footer = () => {
       </h2>
 
       <div className="app__footer-cards">
-        <div className="app__footer-card ">
+        <a
+          href="https://en.wh.ms/201100791315"
+          className="app__footer-card "
+          target="_blank"
+          rel="noreferrer"
+        >
           <img src={images.whatsapp} alt="Whats App" loading="eager" />
           <a
             href="https://en.wh.ms/201100791315"
-            target="_blank"
             className="p-text"
+            target="_blank"
             rel="noreferrer"
           >
             Chat Via Whats App
           </a>
-        </div>
+        </a>
 
-        <div className="app__footer-card">
+        <a
+          href="tel:+(20)1100791315"
+          target="_blank"
+          rel="noreferrer"
+          className="app__footer-card"
+        >
           <img src={images.mobile} alt="phone" loading="eager" />
           <a href="tel:+(20)1100791315" className="p-text">
             +(20) 1100791315
           </a>
-        </div>
+        </a>
 
-        <div className="app__footer-card ">
+        <a
+          target="_blank"
+          rel="noreferrer"
+          href="mailto:mohameduc8526@gmail.com"
+          className="app__footer-card "
+        >
           <img src={images.email} alt="email" loading="eager" />
           <a href="mailto:mohameduc8526@gmail.com" className="p-text">
             mohameduc8526@gmail.com
           </a>
-        </div>
+        </a>
       </div>
       <img className="qr-code" src={images.qrCode} alt="QR-Code" />
       {!isFormSubmitted ? (
