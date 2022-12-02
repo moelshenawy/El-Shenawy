@@ -2,10 +2,13 @@ import React, { useRef, useState } from "react";
 
 import { images } from "../../constants";
 import { AppWrap, MotionWrap } from "../../wrapper";
-import "./Footer.scss";
+import "./Contact.scss";
 import emailjs from "emailjs-com";
+import useAnalyticsEventTracker from "./../../useAnalyticsEventTracker";
 
-const Footer = () => {
+const Contact = () => {
+  const gaEventTracker = useAnalyticsEventTracker("Contact us");
+
   const refForm = useRef();
   const [isFormSubmitted, setIsFormSubmitted] = useState(false);
   const [loading, setLoading] = useState(false);
@@ -57,6 +60,7 @@ const Footer = () => {
           target="_blank"
           rel="noreferrer"
           className="app__footer-card"
+          onClick={() => gaEventTracker("call")}
         >
           <img src={images.mobile} alt="phone" loading="eager" />
           <a href="tel:+(20)1100791315" className="p-text">
@@ -67,12 +71,17 @@ const Footer = () => {
         <a
           target="_blank"
           rel="noreferrer"
-          href="mailto:mohameduc8526@gmail.com"
+          href="mailto:moelshenawy5@gmail.com"
           className="app__footer-card "
+          onClick={() => gaEventTracker("email")}
         >
           <img src={images.email} alt="email" loading="eager" />
-          <a href="mailto:mohameduc8526@gmail.com" className="p-text">
-            mohameduc8526@gmail.com
+          <a
+            href="mailto:moelshenawy5@gmail.com  "
+            className="p-text"
+            onClick={() => gaEventTracker("email")}
+          >
+            moelshenawy5@gmail.com
           </a>
         </a>
       </div>
@@ -127,7 +136,7 @@ const Footer = () => {
 };
 
 export default AppWrap(
-  MotionWrap(Footer, "app__footer"),
+  MotionWrap(Contact, "app__footer"),
   "contact",
   "app__whitebg"
 );
