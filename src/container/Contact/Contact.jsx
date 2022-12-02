@@ -1,10 +1,11 @@
-import React, { useRef, useState } from "react";
+import React, { useEffect, useRef, useState } from "react";
 
 import { images } from "../../constants";
 import { AppWrap, MotionWrap } from "../../wrapper";
 import "./Contact.scss";
 import emailjs from "emailjs-com";
 import useAnalyticsEventTracker from "./../../useAnalyticsEventTracker";
+import ReactGA from "react-ga";
 
 const Contact = () => {
   const gaEventTracker = useAnalyticsEventTracker("Contact us");
@@ -31,6 +32,11 @@ const Contact = () => {
         }
       );
   };
+
+  useEffect(() => {
+    ReactGA.pageview(window.location.pathname);
+  }, []);
+
   return (
     <>
       <h2 className="head-text">
