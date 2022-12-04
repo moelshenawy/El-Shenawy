@@ -5,7 +5,7 @@ import { FaGithub } from "react-icons/fa";
 const SocialMedia = () => (
   <div className="app__social">
     <a
-      href="https://github.com/Muhammad-ElShenawy"
+      href="https://github.com/moelshenawy"
       alt="facebook_profile"
       target="_blank"
       rel="noreferrer"
@@ -14,8 +14,8 @@ const SocialMedia = () => (
     </a>
 
     <a
-      href="https://twitter.com/mohamedgk5"
-      alt="twitter_profile"
+      href="https://www.linkedin.com/in/mo-elshenawy/"
+      alt="linkedin_profile"
       target="_blank"
       rel="noreferrer"
     >
@@ -23,7 +23,7 @@ const SocialMedia = () => (
     </a>
 
     <a
-      href="https://www.instagram.com/muhammad_ali_elshenawy/"
+      href="https://www.instagram.com/moelshenawyy/"
       alt="instagram_profile"
       target="_blank"
       rel="noreferrer"

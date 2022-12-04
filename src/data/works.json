@@ -2,7 +2,7 @@
   "works": [
     {
       "title": "E-commerce Website",
-      "codeLink": "https://github.com/Muhammad-ElShenawy/elShenawy_eCommerce",
+      "codeLink": "https://github.com/moelshenawy/elShenawy_eCommerce",
       "projectLink": "https://elshenawy-ecommerce.vercel.app/",
       "description": "Ecommerce fully responsive Modern Full Stack Ecommerce application with Payments functionality. With Modern design, animations, the ability to add and edit products on the go using a CMS, all advanced cart functionalities, and most importantly the complete integration with Stripe so that you can cover REAL payments.",
       "imgUrl": "./images/work/Ecommerce.webp",
@@ -11,7 +11,7 @@
     },
     {
       "title": "Weather Journal App",
-      "codeLink": "https://github.com/Muhammad-ElShenawy/weather-journal-app",
+      "codeLink": "https://github.com/moelshenawy/weather-journal-app",
       "projectLink": "https://elshenawy-ecommerce.vercel.app/",
       "description": "Wethar Journal App project is a asynchronous web app that uses Web API and user data to dynamically update the UI Node and Express Environment  Node",
       "imgUrl": "./images/work/Weather-Journal-APP.webp",
@@ -20,7 +20,7 @@
     },
     {
       "title": "Blogr landing page",
-      "codeLink": "https://github.com/Muhammad-ElShenawy/Blogr-landing-page",
+      "codeLink": "https://github.com/moelshenawy/Blogr-landing-page",
       "projectLink": "https://muhammad-elshenawy.github.io/Blogr-landing-page/",
       "description": "challenge is to build out this landing page and get it looking as close to the design as possible.",
       "imgUrl": "./images/work/Blogr.webp",
@@ -30,7 +30,7 @@
 
     {
       "title": "Realtor",
-      "codeLink": "https://github.com/Muhammad-ElShenawy/Real-Estate",
+      "codeLink": "https://github.com/moelshenawy/Real-Estate",
       "projectLink": "https://elshenawy-real-estate.vercel.app/",
       "description": "challenge is to build out this landing page and get it looking as close to the design as possible.",
       "imgUrl": "./images/work/Realtor.webp",
@@ -39,7 +39,7 @@
     },
     {
       "title": "Tik-tik",
-      "codeLink": "https://github.com/Muhammad-ElShenawy/Tik-Tik",
+      "codeLink": "https://github.com/moelshenawy/Tik-Tik",
       "projectLink": "https://elshenawy-real-estate.vercel.app/",
       "description": "Tik-Tik is a Video-Sharing Social Media Website, Tik-Tik Application includes Google Auth, the ability to upload, publish, share, comment on, and like the videos, filtering by categories and advanced search functionalities, profile pages, suggested accounts, custom responsive design, and much more...",
       "imgUrl": "./images/work/Tik-Tik.webp",
@@ -48,7 +48,7 @@
     },
     {
       "title": "Template03",
-      "codeLink": "https://github.com/Muhammad-ElShenawy/Template-3-",
+      "codeLink": "https://github.com/moelshenawy/Template-3-",
       "projectLink": "https://muhammad-elshenawy.github.io/Template-3-/",
       "description": "This project is a Web Page Designed By CSS & HTML & JavaScript (Only) Designed by: Elzero Development by: El-Shenawy",
       "imgUrl": "./images/work/Elzero-Landing-Page.webp",
@@ -57,7 +57,7 @@
     },
     {
       "title": "HooBank",
-      "codeLink": "https://github.com/Muhammad-ElShenawy/HooBank",
+      "codeLink": "https://github.com/moelshenawy/HooBank",
       "projectLink": "https://elshenawy-hoobank.netlify.app/",
       "description": "HooBank Landing Page with React.js + Vite responsive React JS application consisting of a stunning hero section.",
       "imgUrl": "./images/work/HooBank.webp",
@@ -66,7 +66,7 @@
     },
     {
       "title": "Landing Page",
-      "codeLink": "https://github.com/Muhammad-ElShenawy/Landing-Page-Project",
+      "codeLink": "https://github.com/moelshenawy/Landing-Page-Project",
       "projectLink": "https://muhammad-elshenawy.github.io/Landing-Page-Project/",
       "description": "All features are usable across modern desktop, tablet, and phone browsers Styling Navigation is built dynamically as an unordered list. Start with empty ul and dynamically build navigation using Append, appendChild, and innerHTML. Has 4 Sections and you can add more and more of sections as you want has been added for active states ",
       "imgUrl": "./images/work/Landing_Page.webp",
@@ -75,7 +75,7 @@
     },
     {
       "title": "GitHub Repositories",
-      "codeLink": "https://github.com/Muhammad-ElShenawy/Get-Repository",
+      "codeLink": "https://github.com/moelshenawy/Get-Repository",
       "projectLink": "https://muhammad-elshenawy.github.io/Get-Repository/",
       "description": "You can get GitHub repositories by typing the user name, so you can visit the repositories also you can see how many start on each Repository.",
       "imgUrl": "./images/work/Get-Repositories.webp",
@@ -84,7 +84,7 @@
     },
     {
       "title": "Todo List",
-      "codeLink": "https://github.com/Muhammad-ElShenawy/Todo-List",
+      "codeLink": "https://github.com/moelshenawy/Todo-List",
       "projectLink": "https://muhammad-elshenawy.github.io/Todo-List/",
       "description": "You can add an infinite number of tasks The app calculate all tasks as well as the completed tasks When you open the app again, you can return to the same tasks that were entered by local storage",
       "imgUrl": "./images/work/Todo-List.webp",

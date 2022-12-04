@@ -1,5 +1,4 @@
 import React, { useEffect, useRef, useState } from "react";
-
 import { images } from "../../constants";
 import { AppWrap, MotionWrap } from "../../wrapper";
 import "./Contact.scss";
@@ -24,8 +23,8 @@ const Contact = () => {
       .sendForm(serviceId, templateId, refForm.current, "NldNEM5KN0n3mDinD")
       .then(
         () => {
-          setLoading(false);
           setIsFormSubmitted(true);
+          setLoading(false);
         },
         (err) => {
           alert(JSON.stringify(err));
