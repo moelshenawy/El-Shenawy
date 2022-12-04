@@ -30,7 +30,7 @@ const About = () => {
             className="app__profile-item"
             key={about.title + i}
           >
-            <img src={about.imgUrl} alt={about.title} loading="lazy" />
+            <img src={about.imgUrl} alt={about.title} />
             <h2 className="bold-text" style={{ marginTop: 20 }}>
               {about.title}
             </h2>

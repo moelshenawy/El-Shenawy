@@ -49,7 +49,7 @@ const Contact = () => {
           target="_blank"
           rel="noreferrer"
         >
-          <img src={images.whatsapp} alt="Whats App" loading="eager" />
+          <img src={images.whatsapp} alt="Whats App" />
           <a
             href="https://en.wh.ms/201100791315"
             className="p-text"
@@ -67,7 +67,7 @@ const Contact = () => {
           className="app__footer-card"
           onClick={() => gaEventTracker("call")}
         >
-          <img src={images.mobile} alt="phone" loading="eager" />
+          <img src={images.mobile} alt="phone" />
           <a href="tel:+(20)1100791315" className="p-text">
             +(20) 1100791315
           </a>
@@ -80,7 +80,7 @@ const Contact = () => {
           className="app__footer-card "
           onClick={() => gaEventTracker("email")}
         >
-          <img src={images.email} alt="email" loading="eager" />
+          <img src={images.email} alt="email" />
           <a
             href="mailto:moelshenawy5@gmail.com  "
             className="p-text"
