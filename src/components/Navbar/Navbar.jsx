@@ -3,8 +3,7 @@ import { HiMenuAlt4, HiX } from "react-icons/hi";
 import { motion } from "framer-motion";
 
 import { images } from "../../constants";
-import "./Navbar.scss";
-
+import "./index.scss";
 const Navbar = () => {
   const [toggle, setToggle] = useState(false);
 
@@ -17,7 +16,7 @@ const Navbar = () => {
       </div>
       <ul className="app__navbar-links">
         {["home", "about", "work", "skills", "contact"].map((item) => (
-          <li className="app__flex p-text" key={`link-${item}`}>
+          <li className="app__flex p-text " key={`link-${item}`}>
             <div />
             <a href={`#${item}`}>{item}</a>
           </li>
