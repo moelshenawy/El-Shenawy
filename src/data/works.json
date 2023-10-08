@@ -48,7 +48,7 @@
     {
       "title": "Blogr landing page",
       "codeLink": "https://github.com/moelshenawy/Blogr-landing-page",
-      "projectLink": "https://muhammad-elshenawy.github.io/Blogr-landing-page/",
+      "projectLink": "https://moelshenawy.github.io/Blogr-landing-page/",
       "description": "challenge is to build out this landing page and get it looking as close to the design as possible.",
       "imgUrl": "./images/work/Blogr.webp",
       "tags": ["Landing", "Page", "JavaScript Pure", "All"],
@@ -76,7 +76,7 @@
     {
       "title": "Template03",
       "codeLink": "https://github.com/moelshenawy/Template-3-",
-      "projectLink": "https://muhammad-elshenawy.github.io/Template-3-/",
+      "projectLink": "https://moelshenawy.github.io/Template-3-/",
       "description": "This project is a Web Page Designed By CSS & HTML & JavaScript (Only) Designed by: Elzero Development by: El-Shenawy",
       "imgUrl": "./images/work/Elzero-Landing-Page.webp",
       "tags": ["Landing Page", "JavaScript Pure", "All"],
@@ -94,7 +94,7 @@
     {
       "title": "Landing Page",
       "codeLink": "https://github.com/moelshenawy/Landing-Page-Project",
-      "projectLink": "https://muhammad-elshenawy.github.io/Landing-Page-Project/",
+      "projectLink": "https://moelshenawy.github.io/Landing-Page-Project/",
       "description": "All features are usable across modern desktop, tablet, and phone browsers Styling Navigation is built dynamically as an unordered list. Start with empty ul and dynamically build navigation using Append, appendChild, and innerHTML. Has 4 Sections and you can add more and more of sections as you want has been added for active states ",
       "imgUrl": "./images/work/Landing_Page.webp",
       "tags": ["Landing Page", "JavaScript Pure", "All"],
@@ -103,7 +103,7 @@
     {
       "title": "GitHub Repositories",
       "codeLink": "https://github.com/moelshenawy/Get-Repository",
-      "projectLink": "https://muhammad-elshenawy.github.io/Get-Repository/",
+      "projectLink": "https://moelshenawy.github.io/Get-Repository/",
       "description": "You can get GitHub repositories by typing the user name, so you can visit the repositories also you can see how many start on each Repository.",
       "imgUrl": "./images/work/Get-Repositories.webp",
       "tags": ["JavaScript Pure", "All"],
@@ -112,7 +112,7 @@
     {
       "title": "Todo List",
       "codeLink": "https://github.com/moelshenawy/Todo-List",
-      "projectLink": "https://muhammad-elshenawy.github.io/Todo-List/",
+      "projectLink": "https://moelshenawy.github.io/Todo-List/",
       "description": "You can add an infinite number of tasks The app calculate all tasks as well as the completed tasks When you open the app again, you can return to the same tasks that were entered by local storage",
       "imgUrl": "./images/work/Todo-List.webp",
       "tags": ["JavaScript Pure", "All"],
