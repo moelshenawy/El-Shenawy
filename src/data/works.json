@@ -67,7 +67,7 @@
     {
       "title": "Tik-tik",
       "codeLink": "https://github.com/moelshenawy/Tik-Tik",
-      "projectLink": "https://elshenawy-real-estate.vercel.app/",
+      "projectLink": "https://elshenawy-tiktik.vercel.app/",
       "description": "Tik-Tik is a Video-Sharing Social Media Website, Tik-Tik Application includes Google Auth, the ability to upload, publish, share, comment on, and like the videos, filtering by categories and advanced search functionalities, profile pages, suggested accounts, custom responsive design, and much more...",
       "imgUrl": "./images/work/Tik-Tik.webp",
       "tags": ["Next JS", "React JS", "All"],
